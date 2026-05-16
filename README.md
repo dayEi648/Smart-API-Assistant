@@ -266,8 +266,6 @@ pytest -v
 - [`planing/smart-api-assistant-design.md`](planing/smart-api-assistant-design.md) — 系统设计方案
 - [`planing/接口文档.md`](planing/接口文档.md) — 接口定义与数据模型
 - [`planing/前端设计.md`](planing/前端设计.md) — 前端设计文档
-- [`DIRECTORY.md`](DIRECTORY.md) — 项目目录结构说明
-- [`GIT.md`](GIT.md) — Git 操作规范
 
 ---
 
